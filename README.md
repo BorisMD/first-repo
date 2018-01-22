@@ -1,2 +1,1 @@
-# first-repo
-My first repo.
+Promqna s TortoiseGit.
